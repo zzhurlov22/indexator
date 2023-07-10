@@ -44,8 +44,6 @@ data = [
 
 list_of_shapes = []
 
-c = 0
-
 for l in data:
     list_of_shapes.append(Shape(l[0], l[1], l[2]))
 
